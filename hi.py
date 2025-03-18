@@ -54,6 +54,6 @@ plt.ylabel('Total Order Amount')
 plt.tight_layout()
 plt.show()      
 
-rint ("hoiiiii")
-9
+print ("hoiiiii")
+
 print("nan magand yekkada")
