@@ -53,9 +53,6 @@ plt.xlabel('Order Type')
 plt.ylabel('Total Order Amount')
 plt.tight_layout()
 plt.show()      
-
-print ("hoiiiii")
-
 print("nan magand yekkada")
-print ("interesting shit")
+print ("interesting")
 print("hahahahahahhahahhahahahah")
